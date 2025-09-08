@@ -13,7 +13,7 @@ basic_info:
     last_name: Horosnyi
     
     # Define yourself in 4-5 words
-    motto: Machine Learning student
+    motto: Current Machine Learning student
     
     # Focus
     focus: Becoming a great developer
@@ -25,7 +25,7 @@ basic_info:
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://files.fm/f/tbu34udwct
+    avatar: "https://1.gravatar.com/avatar/8ce17d7969e6e9c6e116979b0de792fc747a96a75d0b944085aa00a04c1760e8?size=512&d=initials"
 
     # Contact Information
     email: horosnyilentia03@gmail.com
@@ -68,14 +68,13 @@ education:
     - degree: ESO
       university: Colegio Salesiano San Jose
       # optional
-      university_logo: https://www.google.com/imgres?q=colegio%20san%20jos%C3%A9%20de%20guadalajara%20salesianos%20logo&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100057605302258&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FSalesianosGuada%2F&docid=R3HPSwdeYTHvVM&tbnid=SXt4r9xG3SkxuM&vet=12ahUKEwi0y4LYxMGPAxU7UaQEHVUMH10QM3oECBkQAA..i&w=807&h=807&hcb=2&ved=2ahUKEwi0y4LYxMGPAxU7UaQEHVUMH10QM3oECBkQAA
+      #university_logo: 
       time: 2015 - 2019
       details: |
         The cross-cutting pillars of the Quality Policy of the Salesianos School are:
 
         Compliance with the Salesian Ideology and the legal and regulatory requirements applicable to the educational activity carried out.
         Satisfying the needs, demands, and expectations of the educational community.
-        Continuously improving the effectiveness of the quality management system as a working tool.
 
 # Your previous job experiences or volunteer
 experiences:
@@ -83,21 +82,20 @@ experiences:
       time: 2024 - 2025
       company: Laboratorios Chemo
       # optional
-      company_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uBksCfYt_ZdsJm8-rQlEPgDtPGYEmWV1jA&s
+      #company_logo:
       details: |
         Monitor the packaging process to meet health regulations and quality standards.
 
 # Your project portfolio
 projects:
     intro: >
-      Here there is a list with some of the projects I have done during my life
+      My most recent project.
 
     assignments:
       - title: Valencia massive floods - Team coordinator
-
-        project_logo: https://c8.alamy.com/comp/PYYC0K/emblem-of-valencia-city-of-spain-vector-illustration-PYYC0K.jpg
-        link: "#hook"
-        tagline: "Helping the people over there after the terrible floods in 2024."
+        project_logo: ""
+        link: ""
+        tagline: "I coordinated the resources from Guadalajara to Valencia, helped the volunteers organize and keep track of many families' needs"
 skills:
     toolset:
       - name: Python 
